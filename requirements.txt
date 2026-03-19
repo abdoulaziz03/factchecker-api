@@ -5,6 +5,6 @@ groq
 pymongo
 bcrypt
 python-dotenv
-duckduckgo-search
+ddgs
 langdetect
 deep-translator
