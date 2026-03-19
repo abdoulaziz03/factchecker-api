@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+groq
+pymongo
+bcrypt
+python-dotenv
+duckduckgo-search
+langdetect
+deep-translator
